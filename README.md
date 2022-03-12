@@ -4,7 +4,7 @@
 </h1>
 
 <p align="right">
-✍🏻 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock
+🖼️ Studies and activities of the discipline of Graphic Computing
   <br><br>
   <!-- License -->
   <a>
